@@ -1,6 +1,5 @@
 # Oscar
-https://bitbucket.org/oscarlib/oscar/wiki/Home
-Since the official oscarlib on github is not updated for many years, I would like to share the file I changed for my master project and explain it in the following paragraphs.<br />
+Since the official oscarlib(https://bitbucket.org/oscarlib/oscar/wiki/Home) on github is not updated for many years, I would like to share the file I changed for my master project and explain it in the following paragraphs.<br />
 
 In the tableCT file, we need to get the support count to calcuate the solution density for our counting-base search. Then, we called the function 'changeCount' in cp/package to update the support count and unique ID for variables and constraints. <br />
 
