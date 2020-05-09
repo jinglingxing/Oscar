@@ -11,4 +11,6 @@ In cp/package, we created an object named CPIntVarOps, it has the same name as t
 
 In cp/package, we also defined our variable heuristic search and value heuristic search.<br />
 
+### The changes in UML
+![The changes are in blue](https://github.com/jinglingxing/Oscar/blob/master/Oscar_uml_after.png)
 
