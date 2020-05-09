@@ -1,6 +1,6 @@
 # Oscar
 ### Reasons for not cloning the oscarlib 
-Since the official oscarlib(https://bitbucket.org/oscarlib/oscar/wiki/Home) on github is not updated for many years, I would like to only share the files I changed in Oscar for my master project. In the following paragraphs, I will simply explain what I changed.<br />
+Since the official oscarlib(https://bitbucket.org/oscarlib/oscar/wiki/Home) on github is not updated for many years, I would like to only share the main files I changed in Oscar for my master project. In the following paragraphs, I will simply explain what I mainly changed.<br />
 
 
 ### Changed in compact table
@@ -13,4 +13,3 @@ In cp/package, we also defined our variable heuristic search and value heuristic
 
 ### The changes in UML
 ![The changes are in blue](https://github.com/jinglingxing/Oscar/blob/master/Oscar_uml_after.png)
-
